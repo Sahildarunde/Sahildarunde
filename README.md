@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/saahilstwt" target="blank"><img src="https://img.shields.io/twitter/follow/saahilstwt?logo=twitter&style=for-the-badge" alt="saahilstwt" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, TypeScript**
+- 🌱 I’m currently learning **MERN, NextJS & TypeScript**
 
 - 👯 I’m looking to collaborate on **MERN**
 
