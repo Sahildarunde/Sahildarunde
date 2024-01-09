@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **MERN**
 
-- 💬 Ask me about **Java, JS, DSA, React**
+- 💬 Ask me about **Java, JS, DSA, React, NextJS**
 
 - 📫 How to reach me **sahildarunde007@gmail.com**
 
