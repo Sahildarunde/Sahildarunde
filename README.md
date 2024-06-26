@@ -1,4 +1,4 @@
-# 💫 About Me: Hi 👋, I'm Sahil
+# Hi 👋, I'm Sahil
 <br>A passionate software developer from India<br>🌱 I’m currently learning full stack product development<br>👯 I’m looking to collaborate on full stack products & websites<br>💬 Ask me about Java, JS, DSA & Development<br>📫 Reach me at sahildarunde007@gmail.com<br><br>
 
 
