@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahildarunde&label=Profile%20views&color=0e75b6&style=flat" alt="Sahildarunde" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sahildarunde&theme=dracula" alt="Sahildarunde" /></a> </p>
-
 - 🔭 I’m currently working on **Full stack product developement**
 - 👯 I’m looking to collaborate on **Next & MERN**
 - 🌱 I’m currently learning **Full Stack development**
