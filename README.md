@@ -8,7 +8,7 @@
 - 📫 How to reach me **sahildarunde007@gmail.com**
 - 👨‍💻 All of my projects are available at **https://sahil-portfolio-blush.vercel.app/**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1P0BgetRwcD1tanrdffFcCJz06Y5-OUb8/view**
-- ⚡ Fun fact **When I'm not coding, you can find me.**
+- ⚡ Fun fact **When I'm not coding, you can find me on mountains.**
 
 <div> <a href="https://twitter.com/saahilstwt" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sahildarunde" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
