@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Sahil </h2>
+<h1 align="center">Hi 👋, I'm Sahil </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahildarunde&label=Profile%20views&color=0e75b6&style=flat" alt="Sahildarunde" /> </p>
 
 - 🔭 I’m currently working on **Full stack product developement**
