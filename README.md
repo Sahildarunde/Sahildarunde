@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sahil </h1>
+<h2 align="center">Hi 👋, I'm Sahil </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahildarunde&label=Profile%20views&color=0e75b6&style=flat" alt="Sahildarunde" /> </p>
 
 - 🔭 I’m currently working on **Full stack product developement**
-- 👯 I’m looking to collaborate on **Next & MERN**
+- 👯 I’m looking to collaborate on **NextJS**
 - 🌱 I’m currently learning **Full Stack development**
 - 💬 Ask me about **React, Next & Java**
 - 📫 How to reach me **sahildarunde007@gmail.com**
