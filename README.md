@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full stack product developement**
 - 👯 I’m looking to collaborate on **NextJS**
-- 🌱 I’m currently learning **Full Stack development**
+- 🌱 I’m currently learning **Full Stack development **
 - 💬 Ask me about **React, Next & Java**
 - 📫 How to reach me **sahildarunde007@gmail.com**
 - 👨‍💻 All of my projects are available at **https://sahil-portfolio-blush.vercel.app/**
